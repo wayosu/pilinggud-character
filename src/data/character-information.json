@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Hikaru Akizawa",
+    "backgroundStory": "Hikaru Akizawa grew up in the shadow of greatness. His father was a legendary football coach, renowned for his ability to inspire teams and build champions. However, tragedy struck when Hikaru's father passed away suddenly during an international tournament. Devastated but determined, Hikaru vowed to carry on his father's legacy. With a natural talent for football and a burning desire to succeed, he dedicated himself to becoming the heart of every team he joined. On the field, Hikaru is not just a player but a leader who motivates and unites his teammates with his unwavering resolve. Off the field, he is a humble and reflective young man who often seeks wisdom from his father's coaching journals.",
+    "avatar": "/square/vikky.svg",
+    "avatarPng": "/png/vikky.png",
+    "quote": "I will keep running, because every step brings us closer to the light of victory!",
+    "color": "#784E4F",
+    "position": "Center Midfielder",
+    "stats": {
+      "speed": 84,
+      "passing": 88,
+      "dribbling": 87,
+      "shooting": 84,
+      "defense": 86,
+      "stamina": 85
+    },
+    "uniqueSkill": "Blazing Run",
+    "uniqueSkillDescription": "Hikaru has exceptional speed with the ball, allowing him to weave through opponents with ease.",
+    "pasifSkill": "Speed Boost",
+    "pasifSkillDescription": "Automatically increases speed when in the attacking area.",
+    "strengths": [
+      "Exceptional stamina and work rate.",
+      "Accurate long-range passing."
+    ],
+    "weaknesses": [
+      "Struggles in aerial duels.",
+      "Prone to overthinking in high-pressure moments."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Itsuki Aoyama",
+    "backgroundStory": "Born into a family of artists, Itsuki Aoyama's life has always been about creativity. From a young age, he was drawn to the beauty of movement and expression, which he found in both painting and football. While his parents hoped he would follow in their footsteps, Itsuki saw football as a canvas where he could express his artistry. Known for his elegant dribbling and mesmerizing footwork, he has earned the nickname “The Maestro.” Despite his talent, Itsuki struggles with self-doubt, constantly striving to balance his love for football with his family's expectations. His journey is as much about proving himself on the field as it is about reconciling his passions.",
+    "avatar": "/square/ichaq.svg",
+    "avatarPng": "/png/ichaq.png",
+    "quote": "Football is an art, and I paint every match with calmness and precision.",
+    "color": "#486A6F",
+    "position": "Defensive Midfielder",
+    "stats": {
+      "speed": 78,
+      "passing": 84,
+      "dribbling": 76,
+      "shooting": 72,
+      "defense": 92,
+      "stamina": 85
+    },
+    "uniqueSkill": "Calm Commander",
+    "uniqueSkillDescription": "Itsuki excels in ball control under pressure.",
+    "pasifSkill": "Shield Wall",
+    "pasifSkillDescription": "Enhances team defense when Itsuki is in the midfield area.",
+    "strengths": [
+      "Precise dribbling and control.",
+      "Excellent positioning on the field."
+    ],
+    "weaknesses": [
+      "Lacks physical strength in duels.",
+      "Easily frustrated by overly aggressive opponents."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Daichi Matsunaga",
+    "backgroundStory": "Daichi Matsunaga grew up in a small fishing village, where the harsh and demanding lifestyle taught him resilience and discipline. From hauling nets at dawn to playing football on the rugged beaches, Daichi developed an unshakable work ethic and a powerful presence on the field. While others see him as a natural leader, Daichi often questions his own worth, haunted by the pressure to succeed for his community. His style of play reflects his roots—grounded, relentless, and deeply strategic. For Daichi, football is more than a game; it is a responsibility to inspire others and bring pride to his humble beginnings.",
+    "avatar": "/square/dimas.svg",
+    "avatarPng": "/png/dimas.png",
+    "quote": "This field is my home, and I will defend it until the end!",
+    "color": "#957B96",
+    "position": "Attacking Midfielder",
+    "stats": {
+      "speed": 80,
+      "passing": 89,
+      "dribbling": 90,
+      "shooting": 87,
+      "defense": 70,
+      "stamina": 85
+    },
+    "uniqueSkill": "Dribble Master",
+    "uniqueSkillDescription": "Daichi excels in dribbling and passing with the ball.",
+    "pasifSkill": "Pass Counter",
+    "pasifSkillDescription": "Increases passing accuracy when Daichi is in the midfield area.",
+    "strengths": [
+      "Excellent vision and ball management.",
+      "Strong leadership qualities."
+    ],
+    "weaknesses": [
+      "Lacks speed in fast-paced situations.",
+      "Prone to fatigue in the final minutes."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Arata Fujimoto",
+    "backgroundStory": "Arata Fujimoto grew up idolizing a world-class footballer, collecting posters and practicing his idol's moves every day. However, as he matured, he realized that imitating others would only take him so far. Determined to carve his own path, Arata began to focus on his unique style, blending creativity with a deep understanding of the game. Despite his technical skills and tactical intelligence, Arata often struggles with self-confidence, especially when faced with high-pressure situations. Yet, his journey is one of personal growth, as he learns to trust his instincts and embrace his individuality both on and off the field.",
+    "avatar": "/square/alfito.svg",
+    "avatarPng": "/png/alfito.png",
+    "quote": "I don't care how tough the opponent is, I always find a new way to win!",
+    "color": "#3794D7",
+    "position": "Second Striker",
+    "stats": {
+      "speed": 85,
+      "passing": 78,
+      "dribbling": 88,
+      "shooting": 87,
+      "defense": 65,
+      "stamina": 82
+    },
+    "uniqueSkill": "Swift Strike",
+    "uniqueSkillDescription": "Arata can perform quick and precise long-range shots.",
+    "pasifSkill": "Adrenaline Rush",
+    "pasifSkillDescription": "Boosts speed and agility during crucial moments of the match.",
+    "strengths": [
+      "Creative in tight spaces.",
+      "Effective in both offensive and defensive roles."
+    ],
+    "weaknesses": [
+      "Inconsistent under pressure.",
+      "Struggles against physically imposing players."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Haruto Watanabe",
+    "backgroundStory": "Haruto Watanabe grew up on a sprawling family farm, where teamwork and perseverance were daily lessons. Every day after school, he would help his parents with the crops before racing to the local football field. Haruto's strong sense of responsibility and love for the sport shaped him into a tenacious and reliable defender. While he excels at shutting down opponents and supporting his team, he often hesitates to take risks, preferring caution over boldness. Haruto dreams of proving that even someone from a humble background can rise to greatness, making him an inspirational figure for his teammates and community.",
+    "avatar": "/square/wahyu.svg",
+    "avatarPng": "/png/wahyu.png",
+    "quote": "This ball is my wings, and with my team, we will fly toward our dreams!",
+    "color": "#2C3033",
+    "position": "Left Back",
+    "stats": {
+      "speed": 88,
+      "passing": 80,
+      "dribbling": 83,
+      "shooting": 72,
+      "defense": 75,
+      "stamina": 86
+    },
+    "uniqueSkill": "Attack Counter",
+    "uniqueSkillDescription": "Haruto can counter attack opponents quickly and effectively.",
+    "pasifSkill": "Defense Time",
+    "pasifSkillDescription": "Enhances speed when Haruto is in the defensive area.",
+    "strengths": [
+      "Excellent endurance and speed.",
+      "Strong tackling and interceptions."
+    ],
+    "weaknesses": [
+      "Limited offensive capabilities.",
+      "Can be overly cautious."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Renji Takahashi",
+    "backgroundStory": "Renji Takahashi was a track-and-field prodigy before he discovered football. A childhood spent competing in sprints and relays earned him countless trophies, but it was the camaraderie of football that captured his heart. Renji's speed and agility make him a formidable striker, capable of outrunning any defender. However, his transition from individual to team sports has been a challenge; his strong will and drive to win often lead to selfish decisions on the field. Over time, Renji has come to realize that true victory lies in teamwork, and his growth as a player mirrors his growth as a person.",
+    "avatar": "/square/arif.svg",
+    "avatarPng": "/png/arif.png",
+    "quote": "Victory is not just about scoring goals, but learning from every match.",
+    "color": "#C5B9A3",
+    "position": "Center Midfielder",
+    "stats": {
+      "speed": 82,
+      "passing": 85,
+      "dribbling": 88,
+      "shooting": 82,
+      "defense": 80,
+      "stamina": 83
+    },
+    "uniqueSkill": "Tactical Genius",
+    "uniqueSkillDescription": "Renji has the ability to read the flow of the game and strategize effectively.",
+    "pasifSkill": "Playmaker's Vision",
+    "pasifSkillDescription": "Enhances pass accuracy and creates scoring opportunities.",
+    "strengths": [
+      "Exceptional acceleration and pace.",
+      "Clinical finishing in tight spaces."
+    ],
+    "weaknesses": [
+      "Limited defensive contributions.",
+      "Can be selfish in critical moments."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Eiji Kanemura",
+    "backgroundStory": "Eiji Kanemura comes from a family that values academics above all else. His parents saw football as a distraction, but Eiji proved them wrong by excelling both in school and on the field. A strategist at heart, Eiji uses his intelligence to read the game and outsmart opponents, often acting as the team's silent playmaker. Despite his brilliance, Eiji struggles with physical duels and doubts whether he is as valuable as more athletic players. Through football, he learns to overcome his insecurities and trust that his unique skills are just as vital to the team's success.",
+    "avatar": "/square/ekky.svg",
+    "avatarPng": "/png/ekky.png",
+    "quote": "I play not just to win, but to inspire those who watch me.",
+    "color": "#E3A153",
+    "position": "Defensive Midfielder",
+    "stats": {
+      "speed": 82,
+      "passing": 88,
+      "dribbling": 79,
+      "shooting": 70,
+      "defense": 91,
+      "stamina": 85
+    },
+    "uniqueSkill": "Battle Stance",
+    "uniqueSkillDescription": "Eiji can make decisive blocks or interceptions in critical moments.",
+    "pasifSkill": "Leadership Aura",
+    "pasifSkillDescription": "Boosts team morale and defensive strength when on the field.",
+    "strengths": [
+      "Sharp decision-making.",
+      "Great teamwork and passing skills."
+    ],
+    "weaknesses": [
+      "Struggles with physical duels.",
+      "Lacks shooting power."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ryo Kurokawa",
+    "backgroundStory": "Ryo Kurokawa grew up in a quiet mountain village, spending hours training alone with nothing but a ball and a dream. His dedication and discipline transformed him into a skilled player, especially in set pieces and precision plays. Though Ryo's quiet demeanor often makes him underestimated, his actions on the field speak louder than words. However, his introverted nature sometimes isolates him from his teammates, creating challenges in building chemistry. Ryo's story is one of quiet perseverance, as he strives to prove that even the quietest voices can make the loudest impact.",
+    "avatar": "/square/aryo.svg",
+    "avatarPng": "/png/aryo.png",
+    "quote": "The silence off the field keeps me focused. Once I play, everything comes to life.",
+    "color": "#A5B6CA",
+    "position": "Rigt Back",
+    "stats": {
+      "speed": 85,
+      "passing": 77,
+      "dribbling": 80,
+      "shooting": 72,
+      "defense": 88,
+      "stamina": 90
+    },
+    "uniqueSkill": "Silent Strike",
+    "uniqueSkillDescription": "Ryo can quickly change direction and make unexpected passes.",
+    "pasifSkill": "Steady Footwork",
+    "pasifSkillDescription": "Enhances precision and control in defensive situations.",
+    "strengths": [
+      "Excellent ball control under pressure.",
+      "Precise free kicks and set-piece deliveries."
+    ],
+    "weaknesses": [
+      "Lacks stamina for prolonged play.",
+      "Overly dependent on set plays."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Akihiro Tanaka",
+    "backgroundStory": "Akihiro Tanaka grew up playing street football in a bustling urban neighborhood. The crowded alleys and improvised matches taught him agility, creativity, and resilience. Akihiro's fearless attitude and flashy style of play make him a fan favorite, but his reliance on flair sometimes overshadows his effectiveness. Known for his unpredictable moves, Akihiro thrives under pressure, where his instincts shine. Despite his talent, he faces criticism for being inconsistent and occasionally showboating. Akihiro dreams of proving that his street-smart approach can stand toe-to-toe with more traditional players.",
+    "avatar": "/square/alfian.svg",
+    "avatarPng": "/png/alfian.png",
+    "quote": "When the seasons change, our spirit stays the same—fighting until the final whistle!",
+    "color": "#406FA7",
+    "position": "Central Forward",
+    "stats": {
+      "speed": 84,
+      "passing": 76,
+      "dribbling": 82,
+      "shooting": 90,
+      "defense": 70,
+      "stamina": 86
+    },
+    "uniqueSkill": "Precision Shot",
+    "uniqueSkillDescription": "Akihiro can shoot with high accuracy in dangerous areas.",
+    "pasifSkill": "Golden Ratio",
+    "pasifSkillDescription": "Adjusts shot power and angle to increase scoring chances.",
+    "strengths": [
+      "Agile and unpredictable.",
+      "Strong in one-on-one situations."
+    ],
+    "weaknesses": [
+      "Inconsistent in delivering crosses.",
+      "Struggles with composure."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Genji Morikawa",
+    "backgroundStory": "Genji Morikawa was raised in the mountainous countryside, where his days were spent hiking rugged trails and playing football in challenging terrains. The physical demands of his upbringing molded him into a powerhouse defender with unmatched strength and resilience. Genji's no-nonsense approach to the game makes him a reliable anchor for his team. However, his lack of finesse and slower recovery time can be liabilities. Genji's ultimate goal is to honor his roots by demonstrating that sheer determination and grit can rival even the most technically gifted players.",
+    "avatar": "/square/ghama.svg",
+    "avatarPng": "/png/ghama.png",
+    "quote": "This team is a forest, and I am its river. Together, we flow to overcome anything in our way!",
+    "color": "#3A475A",
+    "position": "Center Back",
+    "stats": {
+      "speed": 82,
+      "passing": 88,
+      "dribbling": 79,
+      "shooting": 70,
+      "defense": 91,
+      "stamina": 85
+    },
+    "uniqueSkill": "Battle Stance",
+    "uniqueSkillDescription": "Genji can make decisive blocks or interceptions in critical moments.",
+    "pasifSkill": "Leadership Aura",
+    "pasifSkillDescription": "Boosts team morale and defensive strength when on the field.",
+    "strengths": [
+      "Physically strong and reliable in duels.",
+      "Exceptional aerial ability."
+    ],
+    "weaknesses": [
+      "Lacks finesse in ball handling.",
+      "Slow recovery after losing possession."
+    ]
+  }
+]
